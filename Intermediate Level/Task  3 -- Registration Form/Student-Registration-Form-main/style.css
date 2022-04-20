@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+   background-color: rgb(248, 239, 199);
+  }
+    
+   
+
+
+
+nav {
+    background-color:#0b0b0c;
+}
+
+#navbar {
+    color: white;
+    padding: 10px;
+    gap: 20rem;  
+}
+
+#navbar h1 {
+    text-align: center;
+}
+
+
+#form-details{
+   
+    background-color: aliceblue;
+    padding: 64px 47px;
+    top: 28%;
+    margin-right: 41%;
+    margin-left: 6%;
+    position: absolute;
+    font-size: 19px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+#form-details-info{
+    background-color: aliceblue;
+    padding: 50px 20px ;
+    top: 28%;
+    margin-right: 10%;
+    margin-left: 45%;
+    position: absolute;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+#form-details-info h1 {
+    color: white;
+    font-size: 28px;
+    background-color: #02010b;
+    padding: 3px;
+    text-align: center;
+}
+
+#form-details h1 {
+     color: rgb(35, 35, 35);
+     font-size: 28px;
+     background-color: #e6c068;
+     padding: 3px;
+     text-align: center;
+     border: 2px solid black;
+     border-radius: 10px;
+}
+
+
+#field {
+   padding: 10px;
+   color: rgb(8, 7, 8);
+   justify-content: space-between;
+   display: flex;
+   
+}
+#background-img {
+    position: relative;
+}
+
+#sub {
+    background-color: #e6c068;
+    font-size: 16px;
+    padding: 5px 15px;
+    color: black;
+   
+    display: flex;
+}
+
+label {
+    color: rgb(18, 1, 1);
+}
+table td {
+    padding: 10px;
+}
+
+
+#col {
+    padding: 15px;
+    color: rgb(21, 20, 20);
+}
+
+#show {
+    border:3px solid #161E54;
+    color: rgb(21, 19, 19);
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+
+
